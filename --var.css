@@ -1,0 +1,33 @@
+:root{
+    --color: #fff;
+    --primary-color: #333;
+    --secondary-color: #1c1c1c;
+    --pseudo1: #085078;
+    --pseudo2: #85d8ce;
+    --box-shadow: #45f3ff;
+    --pdisplaybg: #fff;
+    --pdisplaytext: #85D8CE;
+    --pdisplaycolor: #000;
+    --pdisplayborder: #333;
+    --btnborder: #fff;
+    --btncolor: #fff;
+    --btnhover: #ffffff33;
+}
+
+.lightTheme{
+    --color: #333;
+    --primary-color: #E2E2E2;
+    --secondary-color: #C9D6FF;
+    --pseudo1: #141e30;
+    --pseudo2: #2c3e50;
+    --box-shadow: #45f3ff;
+    --pdisplaybg: #333;
+    --pdisplaytext: #000;
+    --pdisplaycolor: #fff;
+    --pdisplayborder: #ffffff33;
+    --btnborder: #000;
+    --btncolor: #000;
+    --btnhover: #ffffff11;
+
+    transition: .2s ease-in;
+}
